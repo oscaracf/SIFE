@@ -57,14 +57,14 @@ public class FramePrncipal extends javax.swing.JFrame {
         jLabel1.setBounds(230, 120, 310, 180);
 
         jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/proyectosife/Imagenes/empleado.png"))); // NOI18N
-        jButton1.setText("jButton1");
+        jButton1.setText("Cliente");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
             }
         });
         desktopPane.add(jButton1);
-        jButton1.setBounds(90, 60, 120, 80);
+        jButton1.setBounds(40, 30, 120, 80);
 
         fileMenu.setMnemonic('f');
         fileMenu.setText("Persona");
