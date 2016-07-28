@@ -95,7 +95,7 @@ public class JfrmCliente extends javax.swing.JInternalFrame {
         setTitle("Cliente");
 
         jLabel1.setFont(new java.awt.Font("Verdana", 1, 18)); // NOI18N
-        jLabel1.setText("Cedula");
+        jLabel1.setText("Cédula");
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel2.setText("Nombre");
